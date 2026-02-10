@@ -1,6 +1,6 @@
-# In-Memory Virtual File System (C++)
+# In-Memory Virtual File System 
 
-A robust, in-memory simulation of a Linux-style file system, engineered in **C++17**. This project implements a hierarchical file structure using the **Composite Design Pattern** and enforces memory safety through modern C++ **Smart Pointers** (`std::shared_ptr` and `std::weak_ptr`).
+This project implements a hierarchical file structure using the **Composite Design Pattern** and enforces memory safety through modern C++ **Smart Pointers** (`std::shared_ptr` and `std::weak_ptr`).
 
 It features a custom Command Line Interface (CLI) that supports standard shell operations like nested directory creation, file generation, and recursive deletion.
 
