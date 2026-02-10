@@ -1,0 +1,15 @@
+# Ignore Executables
+*.exe
+vfs
+*.out
+
+# Ignore Object Files
+*.o
+
+# Ignore Debug Files
+*.pdb
+*.ilk
+
+# Ignore OS Files
+.DS_Store
+Thumbs.db
